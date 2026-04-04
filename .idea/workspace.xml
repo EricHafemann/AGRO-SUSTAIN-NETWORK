@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;EricHafemann&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EricHafemann/AGRO-TAG-NETWORK.git",
-    "accountId": "2fe3267e-f4e5-4255-af1a-e9380810683a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EricHafemann/AGRO-TAG-NETWORK.git&quot;,
+    &quot;accountId&quot;: &quot;2fe3267e-f4e5-4255-af1a-e9380810683a&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -78,8 +78,14 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -111,6 +117,7 @@
       <workItem from="1775127570321" duration="5841000" />
       <workItem from="1775159976293" duration="1021000" />
       <workItem from="1775188413042" duration="1822000" />
+      <workItem from="1775262619718" duration="502000" />
     </task>
     <servers />
   </component>
